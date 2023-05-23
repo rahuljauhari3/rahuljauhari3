@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rahul Jauhari</h1>
 <h3 align="center">Student at Birla Institute of Technology & Science Pilani, Hyderabad Campus</h3>
 
-- 🔭 I’m currently working on **Binance futures automated bot**
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science at BITS PILANI, HYDERABAD CAMPUS.
 
-- 🌱 I’m currently learning **Computer vision**
+- 🌱 I'm enthusiastic about learning and applying data science techniques to real-world problems.
 
-- 👯 I’m looking to collaborate on **Algorithmic trading bot**
+- 💼 I'm actively seeking internship or job opportunities in the field of data science.
 
-- 💬 Ask me about **Algorithmic trading**
+- 📫 You can reach me via email at **rahuljauhari3@gmail.com** or connect with me on **https://www.linkedin.com/in/rahuljauhari/**.
 
-- 📫 How to reach me **rahuljauhari3@gmail.com**
+Skills
+Programming Languages: Python, R, SQL, Java
+Data Analysis: Pandas, NumPy, SciPy, matplotlib, seaborn
+Machine Learning: scikit-learn, TensorFlow, Keras
+Data Visualization: Tableau, Plotly, Matplotlib
+Database Management: MySQL, SQLite, PostgreSQL
+Version Control: Git, GitHub
+Other Tools: Jupyter Notebook, Anaconda, Excel
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing](https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing)
 
