@@ -9,17 +9,25 @@
 
 - 📫 You can reach me via email at **rahuljauhari3@gmail.com** or connect with me on **https://www.linkedin.com/in/rahuljauhari/**.
 
-Skills
-Programming Languages: Python, R, SQL, Java
-Data Analysis: Pandas, NumPy, SciPy, matplotlib, seaborn
-Machine Learning: scikit-learn, TensorFlow, Keras
-Data Visualization: Tableau, Plotly, Matplotlib
-Database Management: MySQL, SQLite, PostgreSQL
-Version Control: Git, GitHub
-Other Tools: Jupyter Notebook, Anaconda, Excel
+<b><h3>Skills</h3><b>
+- Programming Languages: Python, R, SQL, Java
+- Data Analysis: Pandas, NumPy, SciPy, matplotlib, seaborn
+- Machine Learning: scikit-learn, TensorFlow, Keras
+- Data Visualization: Tableau, Plotly, Matplotlib
+- Database Management: MySQL, SQLite, PostgreSQL
+- Version Control: Git, GitHub
+- Other Tools: Jupyter Notebook, Anaconda, Excel
 
+<b><h3>Interests</h3><b>
+In addition to data science, I have a few other interests:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing](https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing)
+Artificial Intelligence
+- Machine Learning
+- Big Data Analytics
+- Natural Language Processing
+- Data Visualization
+
+📄 Know about my experiences [https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing](https://drive.google.com/file/d/1NbNkA2xrdlrwKVtC2DEk6Xqqg3-SyG_X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
